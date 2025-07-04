@@ -38,6 +38,12 @@ A web app to parse and display detailed information from `.torrent` files direct
 
 ---
 
+## Screenshots
+
+![App Screenshot](screenshot/screen.jpg)
+
+---
+
 ## Notes
 
 - All parsing is done client-side, no data is sent to any server.
